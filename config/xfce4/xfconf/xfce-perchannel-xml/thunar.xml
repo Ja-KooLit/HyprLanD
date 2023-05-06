@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="thunar" version="1.0">
+  <property name="last-view" type="string" value="ThunarIconView"/>
+  <property name="last-icon-view-zoom-level" type="string" value="THUNAR_ZOOM_LEVEL_100_PERCENT"/>
+  <property name="last-window-maximized" type="bool" value="true"/>
+  <property name="last-separator-position" type="int" value="394"/>
+  <property name="last-show-hidden" type="bool" value="true"/>
+  <property name="hidden-devices" type="array">
+    <value type="string" value="422bfd2d-527f-4166-8132-3c23aa6b9713"/>
+    <value type="string" value="24555645-eb69-4407-8111-3c7da3ae0253"/>
+    <value type="string" value="4dff6098-fe07-4d0f-953a-ab5438d15ac6"/>
+    <value type="string" value="aaeff56c-7363-477a-b5db-33766d06f9dc"/>
+    <value type="string" value="545d2f11-976c-4609-9377-36fc1d6208ab"/>
+    <value type="string" value="ace9b1f1-cdaf-4120-a020-5bc14cdb8cbd"/>
+  </property>
+  <property name="last-location-bar" type="string" value="ThunarLocationEntry"/>
+  <property name="last-side-pane" type="string" value="ThunarShortcutsPane"/>
+  <property name="last-menubar-visible" type="bool" value="true"/>
+  <property name="last-statusbar-visible" type="bool" value="true"/>
+  <property name="last-toolbar-item-order" type="string" value="0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17"/>
+  <property name="last-toolbar-visible-buttons" type="string" value="0,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0"/>
+  <property name="last-sort-column" type="string" value="THUNAR_COLUMN_NAME"/>
+  <property name="last-sort-order" type="string" value="GTK_SORT_ASCENDING"/>
+  <property name="misc-single-click" type="bool" value="false"/>
+  <property name="last-details-view-zoom-level" type="string" value="THUNAR_ZOOM_LEVEL_38_PERCENT"/>
+  <property name="last-details-view-visible-columns" type="string" value="THUNAR_COLUMN_DATE_MODIFIED,THUNAR_COLUMN_NAME,THUNAR_COLUMN_SIZE,THUNAR_COLUMN_TYPE"/>
+  <property name="last-details-view-column-widths" type="string" value="50,50,161,50,50,178,50,50,454,50,50,98,50,118"/>
+</channel>
